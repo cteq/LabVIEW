@@ -1,4 +1,2 @@
 LabVIEW
 =======
-
-LabVIEW code
